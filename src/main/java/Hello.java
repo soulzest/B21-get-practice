@@ -6,6 +6,7 @@ public class Hello {
         System.out.println("kell");
 
         // watching from living room for 20 min
+        // another 10 min in the living room
     }
 
 
